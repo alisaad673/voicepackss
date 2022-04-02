@@ -1,0 +1,1807 @@
+[
+  {
+    "name": "1.wav",
+    "offset": 0,
+    "duration": 0.210952
+  },
+  {
+    "name": "2.wav",
+    "offset": 0.210952,
+    "duration": 0.218753
+  },
+  {
+    "name": "3.wav",
+    "offset": 0.429705,
+    "duration": 0.2422
+  },
+  {
+    "name": "4.wav",
+    "offset": 0.671905,
+    "duration": 0.187506
+  },
+  {
+    "name": "5.wav",
+    "offset": 0.8594109999999999,
+    "duration": 0.234376
+  },
+  {
+    "name": "6.wav",
+    "offset": 1.0937869999999998,
+    "duration": 0.234376
+  },
+  {
+    "name": "7.wav",
+    "offset": 1.3281629999999998,
+    "duration": 0.171882
+  },
+  {
+    "name": "8.wav",
+    "offset": 1.5000449999999999,
+    "duration": 0.187506
+  },
+  {
+    "name": "9.wav",
+    "offset": 1.6875509999999998,
+    "duration": 0.218753
+  },
+  {
+    "name": "10.wav",
+    "offset": 1.9063039999999998,
+    "duration": 0.203129
+  },
+  {
+    "name": "11.wav",
+    "offset": 2.1094329999999997,
+    "duration": 0.171882
+  },
+  {
+    "name": "12.wav",
+    "offset": 2.2813149999999998,
+    "duration": 0.125011
+  },
+  {
+    "name": "13.wav",
+    "offset": 2.406326,
+    "duration": 0.156259
+  },
+  {
+    "name": "14.wav",
+    "offset": 2.562585,
+    "duration": 0.203129
+  },
+  {
+    "name": "15.wav",
+    "offset": 2.765714,
+    "duration": 0.171882
+  },
+  {
+    "name": "16.wav",
+    "offset": 2.937596,
+    "duration": 0.328141
+  },
+  {
+    "name": "17.wav",
+    "offset": 3.265737,
+    "duration": 0.187506
+  },
+  {
+    "name": "18.wav",
+    "offset": 3.453243,
+    "duration": 0.304694
+  },
+  {
+    "name": "19.wav",
+    "offset": 3.757937,
+    "duration": 0.167982
+  },
+  {
+    "name": "20.wav",
+    "offset": 3.925919,
+    "duration": 0.2422
+  },
+  {
+    "name": "21.wav",
+    "offset": 4.168119,
+    "duration": 0.218753
+  },
+  {
+    "name": "22.wav",
+    "offset": 4.386872,
+    "duration": 0.230476
+  },
+  {
+    "name": "23.wav",
+    "offset": 4.617348000000001,
+    "duration": 0.2461
+  },
+  {
+    "name": "24.wav",
+    "offset": 4.863448000000001,
+    "duration": 0.25
+  },
+  {
+    "name": "25.wav",
+    "offset": 5.113448000000001,
+    "duration": 0.222676
+  },
+  {
+    "name": "26.wav",
+    "offset": 5.336124000000001,
+    "duration": 0.28127
+  },
+  {
+    "name": "27.wav",
+    "offset": 5.617394000000001,
+    "duration": 0.312517
+  },
+  {
+    "name": "28.wav",
+    "offset": 5.929911000000001,
+    "duration": 0.332041
+  },
+  {
+    "name": "29.wav",
+    "offset": 6.261952000000001,
+    "duration": 0.259773
+  },
+  {
+    "name": "30.wav",
+    "offset": 6.521725000000001,
+    "duration": 0.28517
+  },
+  {
+    "name": "31.wav",
+    "offset": 6.806895000000001,
+    "duration": 0.269546
+  },
+  {
+    "name": "32.wav",
+    "offset": 7.076441000000001,
+    "duration": 0.189456
+  },
+  {
+    "name": "33.wav",
+    "offset": 7.265897000000001,
+    "duration": 0.187506
+  },
+  {
+    "name": "34.wav",
+    "offset": 7.453403000000001,
+    "duration": 0.187506
+  },
+  {
+    "name": "35.wav",
+    "offset": 7.640909000000001,
+    "duration": 0.177755
+  },
+  {
+    "name": "36.wav",
+    "offset": 7.818664000000001,
+    "duration": 0.169932
+  },
+  {
+    "name": "37.wav",
+    "offset": 7.988596000000001,
+    "duration": 0.171882
+  },
+  {
+    "name": "38.wav",
+    "offset": 8.160478000000001,
+    "duration": 0.204603
+  },
+  {
+    "name": "39.wav",
+    "offset": 8.365081000000002,
+    "duration": 0.330091
+  },
+  {
+    "name": "40.wav",
+    "offset": 8.695172000000001,
+    "duration": 0.187506
+  },
+  {
+    "name": "41.wav",
+    "offset": 8.882678000000002,
+    "duration": 0.167982
+  },
+  {
+    "name": "42.wav",
+    "offset": 9.050660000000002,
+    "duration": 0.304694
+  },
+  {
+    "name": "43.wav",
+    "offset": 9.355354000000002,
+    "duration": 0.203129
+  },
+  {
+    "name": "44.wav",
+    "offset": 9.558483000000003,
+    "duration": 0.25
+  },
+  {
+    "name": "45.wav",
+    "offset": 9.808483000000003,
+    "duration": 0.28127
+  },
+  {
+    "name": "46.wav",
+    "offset": 10.089753000000002,
+    "duration": 0.28127
+  },
+  {
+    "name": "47.wav",
+    "offset": 10.371023000000001,
+    "duration": 0.273447
+  },
+  {
+    "name": "48.wav",
+    "offset": 10.644470000000002,
+    "duration": 0.28127
+  },
+  {
+    "name": "49.wav",
+    "offset": 10.925740000000001,
+    "duration": 0.28127
+  },
+  {
+    "name": "50.wav",
+    "offset": 11.20701,
+    "duration": 0.28127
+  },
+  {
+    "name": "51.wav",
+    "offset": 11.48828,
+    "duration": 0.296893
+  },
+  {
+    "name": "52.wav",
+    "offset": 11.785173,
+    "duration": 0.238299
+  },
+  {
+    "name": "53.wav",
+    "offset": 12.023472,
+    "duration": 0.218753
+  },
+  {
+    "name": "54.wav",
+    "offset": 12.242225,
+    "duration": 0.125011
+  },
+  {
+    "name": "55.wav",
+    "offset": 12.367236,
+    "duration": 0.128912
+  },
+  {
+    "name": "56.wav",
+    "offset": 12.496148,
+    "duration": 0.273447
+  },
+  {
+    "name": "57.wav",
+    "offset": 12.769594999999999,
+    "duration": 0.218753
+  },
+  {
+    "name": "58.wav",
+    "offset": 12.988347999999998,
+    "duration": 0.125011
+  },
+  {
+    "name": "59.wav",
+    "offset": 13.113358999999999,
+    "duration": 0.296893
+  },
+  {
+    "name": "60.wav",
+    "offset": 13.410252,
+    "duration": 0.171882
+  },
+  {
+    "name": "61.wav",
+    "offset": 13.582134,
+    "duration": 0.265646
+  },
+  {
+    "name": "62.wav",
+    "offset": 13.84778,
+    "duration": 0.156259
+  },
+  {
+    "name": "63.wav",
+    "offset": 14.004039,
+    "duration": 0.187506
+  },
+  {
+    "name": "64.wav",
+    "offset": 14.191545000000001,
+    "duration": 0.187506
+  },
+  {
+    "name": "65.wav",
+    "offset": 14.379051000000002,
+    "duration": 0.187506
+  },
+  {
+    "name": "66.wav",
+    "offset": 14.566557000000003,
+    "duration": 0.140635
+  },
+  {
+    "name": "67.wav",
+    "offset": 14.707192000000003,
+    "duration": 0.156259
+  },
+  {
+    "name": "68.wav",
+    "offset": 14.863451000000003,
+    "duration": 0.218753
+  },
+  {
+    "name": "69.wav",
+    "offset": 15.082204000000003,
+    "duration": 0.203129
+  },
+  {
+    "name": "70.wav",
+    "offset": 15.285333000000003,
+    "duration": 0.167982
+  },
+  {
+    "name": "71.wav",
+    "offset": 15.453315000000003,
+    "duration": 0.125011
+  },
+  {
+    "name": "72.wav",
+    "offset": 15.578326000000004,
+    "duration": 0.25
+  },
+  {
+    "name": "73.wav",
+    "offset": 15.828326000000004,
+    "duration": 0.171882
+  },
+  {
+    "name": "74.wav",
+    "offset": 16.000208000000004,
+    "duration": 0.171882
+  },
+  {
+    "name": "75.wav",
+    "offset": 16.172090000000004,
+    "duration": 0.218753
+  },
+  {
+    "name": "76.wav",
+    "offset": 16.390843000000004,
+    "duration": 0.171882
+  },
+  {
+    "name": "77.wav",
+    "offset": 16.562725000000004,
+    "duration": 0.203129
+  },
+  {
+    "name": "78.wav",
+    "offset": 16.765854000000004,
+    "duration": 0.156259
+  },
+  {
+    "name": "79.wav",
+    "offset": 16.922113000000003,
+    "duration": 0.234376
+  },
+  {
+    "name": "80.wav",
+    "offset": 17.156489000000004,
+    "duration": 0.265646
+  },
+  {
+    "name": "81.wav",
+    "offset": 17.422135000000004,
+    "duration": 0.320317
+  },
+  {
+    "name": "82.wav",
+    "offset": 17.742452000000004,
+    "duration": 0.152358
+  },
+  {
+    "name": "83.wav",
+    "offset": 17.894810000000003,
+    "duration": 0.125011
+  },
+  {
+    "name": "84.wav",
+    "offset": 18.019821000000004,
+    "duration": 0.125011
+  },
+  {
+    "name": "85.wav",
+    "offset": 18.144832000000005,
+    "duration": 0.214853
+  },
+  {
+    "name": "86.wav",
+    "offset": 18.359685000000006,
+    "duration": 0.265646
+  },
+  {
+    "name": "87.wav",
+    "offset": 18.625331000000006,
+    "duration": 0.25
+  },
+  {
+    "name": "88.wav",
+    "offset": 18.875331000000006,
+    "duration": 0.312517
+  },
+  {
+    "name": "89.wav",
+    "offset": 19.187848000000006,
+    "duration": 0.187506
+  },
+  {
+    "name": "90.wav",
+    "offset": 19.375354000000005,
+    "duration": 0.296893
+  },
+  {
+    "name": "91.wav",
+    "offset": 19.672247000000006,
+    "duration": 0.328141
+  },
+  {
+    "name": "92.wav",
+    "offset": 20.000388000000004,
+    "duration": 0.218753
+  },
+  {
+    "name": "93.wav",
+    "offset": 20.219141000000004,
+    "duration": 0.187506
+  },
+  {
+    "name": "94.wav",
+    "offset": 20.406647000000003,
+    "duration": 0.265646
+  },
+  {
+    "name": "95.wav",
+    "offset": 20.672293000000003,
+    "duration": 0.2461
+  },
+  {
+    "name": "96.wav",
+    "offset": 20.918393000000002,
+    "duration": 0.201179
+  },
+  {
+    "name": "97.wav",
+    "offset": 21.119572,
+    "duration": 0.226576
+  },
+  {
+    "name": "98.wav",
+    "offset": 21.346148000000003,
+    "duration": 0.205079
+  },
+  {
+    "name": "99.wav",
+    "offset": 21.551227000000004,
+    "duration": 0.24415
+  },
+  {
+    "name": "100.wav",
+    "offset": 21.795377000000006,
+    "duration": 0.187506
+  },
+  {
+    "name": "101.wav",
+    "offset": 21.982883000000005,
+    "duration": 0.25
+  },
+  {
+    "name": "102.wav",
+    "offset": 22.232883000000005,
+    "duration": 0.218753
+  },
+  {
+    "name": "103.wav",
+    "offset": 22.451636000000004,
+    "duration": 0.312517
+  },
+  {
+    "name": "104.wav",
+    "offset": 22.764153000000004,
+    "duration": 0.332041
+  },
+  {
+    "name": "105.wav",
+    "offset": 23.096194000000004,
+    "duration": 0.261723
+  },
+  {
+    "name": "106.wav",
+    "offset": 23.357917000000004,
+    "duration": 0.222676
+  },
+  {
+    "name": "107.wav",
+    "offset": 23.580593000000004,
+    "duration": 0.187506
+  },
+  {
+    "name": "108.wav",
+    "offset": 23.768099000000003,
+    "duration": 0.28127
+  },
+  {
+    "name": "109.wav",
+    "offset": 24.049369000000002,
+    "duration": 0.125011
+  },
+  {
+    "name": "110.wav",
+    "offset": 24.174380000000003,
+    "duration": 0.238299
+  },
+  {
+    "name": "111.wav",
+    "offset": 24.412679000000004,
+    "duration": 0.125011
+  },
+  {
+    "name": "112.wav",
+    "offset": 24.537690000000005,
+    "duration": 0.234376
+  },
+  {
+    "name": "113.wav",
+    "offset": 24.772066000000006,
+    "duration": 0.187506
+  },
+  {
+    "name": "114.wav",
+    "offset": 24.959572000000005,
+    "duration": 0.218753
+  },
+  {
+    "name": "115.wav",
+    "offset": 25.178325000000005,
+    "duration": 0.203129
+  },
+  {
+    "name": "116.wav",
+    "offset": 25.381454000000005,
+    "duration": 0.234376
+  },
+  {
+    "name": "117.wav",
+    "offset": 25.615830000000006,
+    "duration": 0.226576
+  },
+  {
+    "name": "118.wav",
+    "offset": 25.842406000000008,
+    "duration": 0.312517
+  },
+  {
+    "name": "119.wav",
+    "offset": 26.154923000000007,
+    "duration": 0.234376
+  },
+  {
+    "name": "120.wav",
+    "offset": 26.38929900000001,
+    "duration": 0.203129
+  },
+  {
+    "name": "121.wav",
+    "offset": 26.59242800000001,
+    "duration": 0.132834
+  },
+  {
+    "name": "122.wav",
+    "offset": 26.725262000000008,
+    "duration": 0.140635
+  },
+  {
+    "name": "123.wav",
+    "offset": 26.865897000000007,
+    "duration": 0.125011
+  },
+  {
+    "name": "124.wav",
+    "offset": 26.990908000000008,
+    "duration": 0.203129
+  },
+  {
+    "name": "125.wav",
+    "offset": 27.19403700000001,
+    "duration": 0.234376
+  },
+  {
+    "name": "126.wav",
+    "offset": 27.42841300000001,
+    "duration": 0.218753
+  },
+  {
+    "name": "127.wav",
+    "offset": 27.64716600000001,
+    "duration": 0.171882
+  },
+  {
+    "name": "128.wav",
+    "offset": 27.81904800000001,
+    "duration": 0.234376
+  },
+  {
+    "name": "129.wav",
+    "offset": 28.05342400000001,
+    "duration": 0.171882
+  },
+  {
+    "name": "130.wav",
+    "offset": 28.22530600000001,
+    "duration": 0.218753
+  },
+  {
+    "name": "131.wav",
+    "offset": 28.44405900000001,
+    "duration": 0.164082
+  },
+  {
+    "name": "132.wav",
+    "offset": 28.60814100000001,
+    "duration": 0.218753
+  },
+  {
+    "name": "133.wav",
+    "offset": 28.82689400000001,
+    "duration": 0.125011
+  },
+  {
+    "name": "134.wav",
+    "offset": 28.95190500000001,
+    "duration": 0.2422
+  },
+  {
+    "name": "135.wav",
+    "offset": 29.19410500000001,
+    "duration": 0.304694
+  },
+  {
+    "name": "136.wav",
+    "offset": 29.498799000000012,
+    "duration": 0.273447
+  },
+  {
+    "name": "137.wav",
+    "offset": 29.772246000000013,
+    "duration": 0.300794
+  },
+  {
+    "name": "138.wav",
+    "offset": 30.073040000000013,
+    "duration": 0.125011
+  },
+  {
+    "name": "139.wav",
+    "offset": 30.198051000000014,
+    "duration": 0.359388
+  },
+  {
+    "name": "140.wav",
+    "offset": 30.557439000000013,
+    "duration": 0.343764
+  },
+  {
+    "name": "141.wav",
+    "offset": 30.901203000000013,
+    "duration": 0.234376
+  },
+  {
+    "name": "142.wav",
+    "offset": 31.135579000000014,
+    "duration": 0.156259
+  },
+  {
+    "name": "143.wav",
+    "offset": 31.291838000000013,
+    "duration": 0.390635
+  },
+  {
+    "name": "144.wav",
+    "offset": 31.682473000000012,
+    "duration": 0.203129
+  },
+  {
+    "name": "145.wav",
+    "offset": 31.885602000000013,
+    "duration": 0.265646
+  },
+  {
+    "name": "146.wav",
+    "offset": 32.15124800000001,
+    "duration": 0.128912
+  },
+  {
+    "name": "147.wav",
+    "offset": 32.28016000000001,
+    "duration": 0.171882
+  },
+  {
+    "name": "148.wav",
+    "offset": 32.452042000000006,
+    "duration": 0.292971
+  },
+  {
+    "name": "149.wav",
+    "offset": 32.74501300000001,
+    "duration": 0.234376
+  },
+  {
+    "name": "150.wav",
+    "offset": 32.979389000000005,
+    "duration": 0.343764
+  },
+  {
+    "name": "151.wav",
+    "offset": 33.323153000000005,
+    "duration": 0.375011
+  },
+  {
+    "name": "152.wav",
+    "offset": 33.698164000000006,
+    "duration": 0.312517
+  },
+  {
+    "name": "153.wav",
+    "offset": 34.010681000000005,
+    "duration": 0.28517
+  },
+  {
+    "name": "154.wav",
+    "offset": 34.295851000000006,
+    "duration": 0.269546
+  },
+  {
+    "name": "155.wav",
+    "offset": 34.565397000000004,
+    "duration": 0.175782
+  },
+  {
+    "name": "156.wav",
+    "offset": 34.741179,
+    "duration": 0.28127
+  },
+  {
+    "name": "157.wav",
+    "offset": 35.022449,
+    "duration": 0.25
+  },
+  {
+    "name": "158.wav",
+    "offset": 35.272449,
+    "duration": 0.203129
+  },
+  {
+    "name": "159.wav",
+    "offset": 35.475578,
+    "duration": 0.175782
+  },
+  {
+    "name": "160.wav",
+    "offset": 35.65136,
+    "duration": 0.144535
+  },
+  {
+    "name": "161.wav",
+    "offset": 35.795894999999994,
+    "duration": 0.148458
+  },
+  {
+    "name": "162.wav",
+    "offset": 35.94435299999999,
+    "duration": 0.28907
+  },
+  {
+    "name": "163.wav",
+    "offset": 36.233422999999995,
+    "duration": 0.152358
+  },
+  {
+    "name": "164.wav",
+    "offset": 36.385780999999994,
+    "duration": 0.183605
+  },
+  {
+    "name": "165.wav",
+    "offset": 36.569385999999994,
+    "duration": 0.25
+  },
+  {
+    "name": "166.wav",
+    "offset": 36.819385999999994,
+    "duration": 0.28907
+  },
+  {
+    "name": "167.wav",
+    "offset": 37.108456,
+    "duration": 0.132834
+  },
+  {
+    "name": "168.wav",
+    "offset": 37.24129,
+    "duration": 0.359388
+  },
+  {
+    "name": "169.wav",
+    "offset": 37.600678,
+    "duration": 0.238299
+  },
+  {
+    "name": "170.wav",
+    "offset": 37.838977,
+    "duration": 0.371111
+  },
+  {
+    "name": "171.wav",
+    "offset": 38.210088,
+    "duration": 0.25
+  },
+  {
+    "name": "172.wav",
+    "offset": 38.460088,
+    "duration": 0.234376
+  },
+  {
+    "name": "173.wav",
+    "offset": 38.694463999999996,
+    "duration": 0.156259
+  },
+  {
+    "name": "174.wav",
+    "offset": 38.850722999999995,
+    "duration": 0.343764
+  },
+  {
+    "name": "175.wav",
+    "offset": 39.194486999999995,
+    "duration": 0.296893
+  },
+  {
+    "name": "176.wav",
+    "offset": 39.49137999999999,
+    "duration": 0.328141
+  },
+  {
+    "name": "177.wav",
+    "offset": 39.819520999999995,
+    "duration": 0.437506
+  },
+  {
+    "name": "178.wav",
+    "offset": 40.257026999999994,
+    "duration": 0.28127
+  },
+  {
+    "name": "179.wav",
+    "offset": 40.53829699999999,
+    "duration": 0.187506
+  },
+  {
+    "name": "180.wav",
+    "offset": 40.72580299999999,
+    "duration": 0.230476
+  },
+  {
+    "name": "181.wav",
+    "offset": 40.956278999999995,
+    "duration": 0.218753
+  },
+  {
+    "name": "182.wav",
+    "offset": 41.175031999999995,
+    "duration": 0.207052
+  },
+  {
+    "name": "183.wav",
+    "offset": 41.38208399999999,
+    "duration": 0.214853
+  },
+  {
+    "name": "184.wav",
+    "offset": 41.59693699999999,
+    "duration": 0.171882
+  },
+  {
+    "name": "185.wav",
+    "offset": 41.768818999999986,
+    "duration": 0.203129
+  },
+  {
+    "name": "186.wav",
+    "offset": 41.97194799999998,
+    "duration": 0.210952
+  },
+  {
+    "name": "187.wav",
+    "offset": 42.18289999999998,
+    "duration": 0.312517
+  },
+  {
+    "name": "188.wav",
+    "offset": 42.49541699999998,
+    "duration": 0.296893
+  },
+  {
+    "name": "189.wav",
+    "offset": 42.79230999999998,
+    "duration": 0.199229
+  },
+  {
+    "name": "190.wav",
+    "offset": 42.99153899999998,
+    "duration": 0.234376
+  },
+  {
+    "name": "191.wav",
+    "offset": 43.22591499999998,
+    "duration": 0.140635
+  },
+  {
+    "name": "192.wav",
+    "offset": 43.36654999999998,
+    "duration": 0.187506
+  },
+  {
+    "name": "193.wav",
+    "offset": 43.55405599999998,
+    "duration": 0.218753
+  },
+  {
+    "name": "194.wav",
+    "offset": 43.77280899999998,
+    "duration": 0.238299
+  },
+  {
+    "name": "195.wav",
+    "offset": 44.01110799999998,
+    "duration": 0.152358
+  },
+  {
+    "name": "196.wav",
+    "offset": 44.16346599999998,
+    "duration": 0.218753
+  },
+  {
+    "name": "197.wav",
+    "offset": 44.38221899999998,
+    "duration": 0.234376
+  },
+  {
+    "name": "198.wav",
+    "offset": 44.616594999999975,
+    "duration": 0.316417
+  },
+  {
+    "name": "199.wav",
+    "offset": 44.93301199999998,
+    "duration": 0.197279
+  },
+  {
+    "name": "200.wav",
+    "offset": 45.13029099999998,
+    "duration": 0.17873
+  },
+  {
+    "name": "201.wav",
+    "offset": 45.30902099999998,
+    "duration": 0.187506
+  },
+  {
+    "name": "202.wav",
+    "offset": 45.49652699999998,
+    "duration": 0.218753
+  },
+  {
+    "name": "203.wav",
+    "offset": 45.71527999999998,
+    "duration": 0.187506
+  },
+  {
+    "name": "204.wav",
+    "offset": 45.90278599999998,
+    "duration": 0.312517
+  },
+  {
+    "name": "205.wav",
+    "offset": 46.21530299999998,
+    "duration": 0.339864
+  },
+  {
+    "name": "206.wav",
+    "offset": 46.555166999999976,
+    "duration": 0.125011
+  },
+  {
+    "name": "207.wav",
+    "offset": 46.68017799999998,
+    "duration": 0.273447
+  },
+  {
+    "name": "208.wav",
+    "offset": 46.953624999999974,
+    "duration": 0.125011
+  },
+  {
+    "name": "209.wav",
+    "offset": 47.078635999999975,
+    "duration": 0.210952
+  },
+  {
+    "name": "210.wav",
+    "offset": 47.28958799999997,
+    "duration": 0.312517
+  },
+  {
+    "name": "211.wav",
+    "offset": 47.60210499999997,
+    "duration": 0.296893
+  },
+  {
+    "name": "212.wav",
+    "offset": 47.89899799999997,
+    "duration": 0.335941
+  },
+  {
+    "name": "213.wav",
+    "offset": 48.23493899999997,
+    "duration": 0.296893
+  },
+  {
+    "name": "214.wav",
+    "offset": 48.531831999999966,
+    "duration": 0.28517
+  },
+  {
+    "name": "215.wav",
+    "offset": 48.81700199999997,
+    "duration": 0.25
+  },
+  {
+    "name": "216.wav",
+    "offset": 49.06700199999997,
+    "duration": 0.382834
+  },
+  {
+    "name": "217.wav",
+    "offset": 49.44983599999997,
+    "duration": 0.25
+  },
+  {
+    "name": "218.wav",
+    "offset": 49.69983599999997,
+    "duration": 0.277347
+  },
+  {
+    "name": "219.wav",
+    "offset": 49.97718299999997,
+    "duration": 0.171882
+  },
+  {
+    "name": "220.wav",
+    "offset": 50.149064999999965,
+    "duration": 0.359388
+  },
+  {
+    "name": "221.wav",
+    "offset": 50.50845299999997,
+    "duration": 0.28517
+  },
+  {
+    "name": "222.wav",
+    "offset": 50.79362299999997,
+    "duration": 0.171882
+  },
+  {
+    "name": "223.wav",
+    "offset": 50.965504999999965,
+    "duration": 0.28517
+  },
+  {
+    "name": "224.wav",
+    "offset": 51.250674999999966,
+    "duration": 0.292971
+  },
+  {
+    "name": "225.wav",
+    "offset": 51.54364599999997,
+    "duration": 0.296893
+  },
+  {
+    "name": "226.wav",
+    "offset": 51.840538999999964,
+    "duration": 0.218753
+  },
+  {
+    "name": "227.wav",
+    "offset": 52.059291999999964,
+    "duration": 0.28127
+  },
+  {
+    "name": "228.wav",
+    "offset": 52.34056199999996,
+    "duration": 0.28127
+  },
+  {
+    "name": "229.wav",
+    "offset": 52.62183199999996,
+    "duration": 0.156259
+  },
+  {
+    "name": "230.wav",
+    "offset": 52.77809099999996,
+    "duration": 0.386735
+  },
+  {
+    "name": "231.wav",
+    "offset": 53.16482599999996,
+    "duration": 0.308594
+  },
+  {
+    "name": "232.wav",
+    "offset": 53.47341999999996,
+    "duration": 0.234376
+  },
+  {
+    "name": "233.wav",
+    "offset": 53.70779599999996,
+    "duration": 0.28127
+  },
+  {
+    "name": "234.wav",
+    "offset": 53.98906599999996,
+    "duration": 0.25
+  },
+  {
+    "name": "235.wav",
+    "offset": 54.23906599999996,
+    "duration": 0.140635
+  },
+  {
+    "name": "236.wav",
+    "offset": 54.37970099999996,
+    "duration": 0.214853
+  },
+  {
+    "name": "237.wav",
+    "offset": 54.59455399999996,
+    "duration": 0.234376
+  },
+  {
+    "name": "238.wav",
+    "offset": 54.82892999999996,
+    "duration": 0.218753
+  },
+  {
+    "name": "239.wav",
+    "offset": 55.04768299999996,
+    "duration": 0.312517
+  },
+  {
+    "name": "240.wav",
+    "offset": 55.360199999999956,
+    "duration": 0.222676
+  },
+  {
+    "name": "241.wav",
+    "offset": 55.582875999999956,
+    "duration": 0.28127
+  },
+  {
+    "name": "242.wav",
+    "offset": 55.864145999999955,
+    "duration": 0.312517
+  },
+  {
+    "name": "243.wav",
+    "offset": 56.176662999999955,
+    "duration": 0.132834
+  },
+  {
+    "name": "244.wav",
+    "offset": 56.30949699999996,
+    "duration": 0.308594
+  },
+  {
+    "name": "245.wav",
+    "offset": 56.61809099999996,
+    "duration": 0.375011
+  },
+  {
+    "name": "246.wav",
+    "offset": 56.99310199999996,
+    "duration": 0.28907
+  },
+  {
+    "name": "247.wav",
+    "offset": 57.28217199999996,
+    "duration": 0.308594
+  },
+  {
+    "name": "248.wav",
+    "offset": 57.59076599999996,
+    "duration": 0.28127
+  },
+  {
+    "name": "249.wav",
+    "offset": 57.87203599999996,
+    "duration": 0.359388
+  },
+  {
+    "name": "250.wav",
+    "offset": 58.23142399999996,
+    "duration": 0.167982
+  },
+  {
+    "name": "251.wav",
+    "offset": 58.39940599999996,
+    "duration": 0.152358
+  },
+  {
+    "name": "252.wav",
+    "offset": 58.55176399999996,
+    "duration": 0.210952
+  },
+  {
+    "name": "253.wav",
+    "offset": 58.76271599999996,
+    "duration": 0.2461
+  },
+  {
+    "name": "254.wav",
+    "offset": 59.00881599999996,
+    "duration": 0.292971
+  },
+  {
+    "name": "255.wav",
+    "offset": 59.30178699999996,
+    "duration": 0.335941
+  },
+  {
+    "name": "256.wav",
+    "offset": 59.63772799999996,
+    "duration": 0.363288
+  },
+  {
+    "name": "257.wav",
+    "offset": 60.00101599999996,
+    "duration": 0.25
+  },
+  {
+    "name": "258.wav",
+    "offset": 60.25101599999996,
+    "duration": 0.167982
+  },
+  {
+    "name": "259.wav",
+    "offset": 60.41899799999996,
+    "duration": 0.32424
+  },
+  {
+    "name": "260.wav",
+    "offset": 60.74323799999996,
+    "duration": 0.32424
+  },
+  {
+    "name": "261.wav",
+    "offset": 61.067477999999966,
+    "duration": 0.25
+  },
+  {
+    "name": "262.wav",
+    "offset": 61.317477999999966,
+    "duration": 0.152358
+  },
+  {
+    "name": "263.wav",
+    "offset": 61.469835999999965,
+    "duration": 0.253923
+  },
+  {
+    "name": "264.wav",
+    "offset": 61.723758999999966,
+    "duration": 0.226576
+  },
+  {
+    "name": "265.wav",
+    "offset": 61.95033499999997,
+    "duration": 0.273447
+  },
+  {
+    "name": "266.wav",
+    "offset": 62.223781999999964,
+    "duration": 0.296893
+  },
+  {
+    "name": "267.wav",
+    "offset": 62.52067499999996,
+    "duration": 0.218753
+  },
+  {
+    "name": "268.wav",
+    "offset": 62.73942799999996,
+    "duration": 0.25
+  },
+  {
+    "name": "269.wav",
+    "offset": 62.98942799999996,
+    "duration": 0.300794
+  },
+  {
+    "name": "270.wav",
+    "offset": 63.290221999999964,
+    "duration": 0.2422
+  },
+  {
+    "name": "271.wav",
+    "offset": 63.53242199999996,
+    "duration": 0.2461
+  },
+  {
+    "name": "272.wav",
+    "offset": 63.77852199999996,
+    "duration": 0.230476
+  },
+  {
+    "name": "273.wav",
+    "offset": 64.00899799999996,
+    "duration": 0.414082
+  },
+  {
+    "name": "274.wav",
+    "offset": 64.42307999999996,
+    "duration": 0.375011
+  },
+  {
+    "name": "275.wav",
+    "offset": 64.79809099999996,
+    "duration": 0.476576
+  },
+  {
+    "name": "276.wav",
+    "offset": 65.27466699999995,
+    "duration": 0.300794
+  },
+  {
+    "name": "277.wav",
+    "offset": 65.57546099999995,
+    "duration": 0.437506
+  },
+  {
+    "name": "278.wav",
+    "offset": 66.01296699999995,
+    "duration": 0.5
+  },
+  {
+    "name": "279.wav",
+    "offset": 66.51296699999995,
+    "duration": 0.410159
+  },
+  {
+    "name": "280.wav",
+    "offset": 66.92312599999994,
+    "duration": 0.226576
+  },
+  {
+    "name": "281.wav",
+    "offset": 67.14970199999993,
+    "duration": 0.199229
+  },
+  {
+    "name": "282.wav",
+    "offset": 67.34893099999994,
+    "duration": 0.375011
+  },
+  {
+    "name": "283.wav",
+    "offset": 67.72394199999994,
+    "duration": 0.375011
+  },
+  {
+    "name": "284.wav",
+    "offset": 68.09895299999994,
+    "duration": 0.273447
+  },
+  {
+    "name": "285.wav",
+    "offset": 68.37239999999994,
+    "duration": 0.292971
+  },
+  {
+    "name": "286.wav",
+    "offset": 68.66537099999994,
+    "duration": 0.347664
+  },
+  {
+    "name": "287.wav",
+    "offset": 69.01303499999993,
+    "duration": 0.28907
+  },
+  {
+    "name": "288.wav",
+    "offset": 69.30210499999993,
+    "duration": 0.238299
+  },
+  {
+    "name": "289.wav",
+    "offset": 69.54040399999992,
+    "duration": 0.199229
+  },
+  {
+    "name": "290.wav",
+    "offset": 69.73963299999993,
+    "duration": 0.343764
+  },
+  {
+    "name": "291.wav",
+    "offset": 70.08339699999992,
+    "duration": 0.292971
+  },
+  {
+    "name": "292.wav",
+    "offset": 70.37636799999991,
+    "duration": 0.375011
+  },
+  {
+    "name": "293.wav",
+    "offset": 70.75137899999991,
+    "duration": 0.28907
+  },
+  {
+    "name": "294.wav",
+    "offset": 71.04044899999991,
+    "duration": 0.375011
+  },
+  {
+    "name": "295.wav",
+    "offset": 71.41545999999991,
+    "duration": 0.2461
+  },
+  {
+    "name": "296.wav",
+    "offset": 71.66155999999991,
+    "duration": 0.269546
+  },
+  {
+    "name": "297.wav",
+    "offset": 71.93110599999991,
+    "duration": 0.269546
+  },
+  {
+    "name": "298.wav",
+    "offset": 72.20065199999992,
+    "duration": 0.203129
+  },
+  {
+    "name": "299.wav",
+    "offset": 72.40378099999992,
+    "duration": 0.207052
+  },
+  {
+    "name": "300.wav",
+    "offset": 72.61083299999993,
+    "duration": 0.230476
+  },
+  {
+    "name": "301.wav",
+    "offset": 72.84130899999992,
+    "duration": 0.199229
+  },
+  {
+    "name": "302.wav",
+    "offset": 73.04053799999993,
+    "duration": 0.199229
+  },
+  {
+    "name": "303.wav",
+    "offset": 73.23976699999993,
+    "duration": 0.312517
+  },
+  {
+    "name": "304.wav",
+    "offset": 73.55228399999993,
+    "duration": 0.300794
+  },
+  {
+    "name": "305.wav",
+    "offset": 73.85307799999993,
+    "duration": 0.320317
+  },
+  {
+    "name": "306.wav",
+    "offset": 74.17339499999993,
+    "duration": 0.2461
+  },
+  {
+    "name": "307.wav",
+    "offset": 74.41949499999993,
+    "duration": 0.25
+  },
+  {
+    "name": "308.wav",
+    "offset": 74.66949499999993,
+    "duration": 0.171882
+  },
+  {
+    "name": "309.wav",
+    "offset": 74.84137699999992,
+    "duration": 0.210952
+  },
+  {
+    "name": "310.wav",
+    "offset": 75.05232899999993,
+    "duration": 0.222676
+  },
+  {
+    "name": "311.wav",
+    "offset": 75.27500499999994,
+    "duration": 0.171882
+  },
+  {
+    "name": "312.wav",
+    "offset": 75.44688699999993,
+    "duration": 0.238299
+  },
+  {
+    "name": "313.wav",
+    "offset": 75.68518599999993,
+    "duration": 0.226576
+  },
+  {
+    "name": "314.wav",
+    "offset": 75.91176199999992,
+    "duration": 0.210952
+  },
+  {
+    "name": "315.wav",
+    "offset": 76.12271399999993,
+    "duration": 0.179705
+  },
+  {
+    "name": "316.wav",
+    "offset": 76.30241899999993,
+    "duration": 0.265646
+  },
+  {
+    "name": "317.wav",
+    "offset": 76.56806499999993,
+    "duration": 0.171882
+  },
+  {
+    "name": "318.wav",
+    "offset": 76.73994699999993,
+    "duration": 0.136735
+  },
+  {
+    "name": "319.wav",
+    "offset": 76.87668199999993,
+    "duration": 0.191429
+  },
+  {
+    "name": "320.wav",
+    "offset": 77.06811099999993,
+    "duration": 0.343764
+  },
+  {
+    "name": "321.wav",
+    "offset": 77.41187499999992,
+    "duration": 0.296893
+  },
+  {
+    "name": "322.wav",
+    "offset": 77.70876799999992,
+    "duration": 0.183605
+  },
+  {
+    "name": "323.wav",
+    "offset": 77.89237299999992,
+    "duration": 0.25
+  },
+  {
+    "name": "324.wav",
+    "offset": 78.14237299999992,
+    "duration": 0.226576
+  },
+  {
+    "name": "325.wav",
+    "offset": 78.36894899999992,
+    "duration": 0.312517
+  },
+  {
+    "name": "326.wav",
+    "offset": 78.68146599999992,
+    "duration": 0.125011
+  },
+  {
+    "name": "327.wav",
+    "offset": 78.80647699999992,
+    "duration": 0.230476
+  },
+  {
+    "name": "328.wav",
+    "offset": 79.03695299999991,
+    "duration": 0.312517
+  },
+  {
+    "name": "329.wav",
+    "offset": 79.34946999999991,
+    "duration": 0.320317
+  },
+  {
+    "name": "330.wav",
+    "offset": 79.66978699999991,
+    "duration": 0.25
+  },
+  {
+    "name": "331.wav",
+    "offset": 79.91978699999991,
+    "duration": 0.222676
+  },
+  {
+    "name": "332.wav",
+    "offset": 80.14246299999992,
+    "duration": 0.179705
+  },
+  {
+    "name": "333.wav",
+    "offset": 80.32216799999992,
+    "duration": 0.296893
+  },
+  {
+    "name": "334.wav",
+    "offset": 80.61906099999992,
+    "duration": 0.28907
+  },
+  {
+    "name": "335.wav",
+    "offset": 80.90813099999991,
+    "duration": 0.296893
+  },
+  {
+    "name": "336.wav",
+    "offset": 81.20502399999991,
+    "duration": 0.269546
+  },
+  {
+    "name": "337.wav",
+    "offset": 81.47456999999991,
+    "duration": 0.292971
+  },
+  {
+    "name": "338.wav",
+    "offset": 81.76754099999991,
+    "duration": 0.230476
+  },
+  {
+    "name": "339.wav",
+    "offset": 81.9980169999999,
+    "duration": 0.300794
+  },
+  {
+    "name": "340.wav",
+    "offset": 82.2988109999999,
+    "duration": 0.156259
+  },
+  {
+    "name": "341.wav",
+    "offset": 82.4550699999999,
+    "duration": 0.332041
+  },
+  {
+    "name": "342.wav",
+    "offset": 82.78711099999991,
+    "duration": 0.332041
+  },
+  {
+    "name": "343.wav",
+    "offset": 83.11915199999991,
+    "duration": 0.269546
+  },
+  {
+    "name": "344.wav",
+    "offset": 83.38869799999992,
+    "duration": 0.343764
+  },
+  {
+    "name": "345.wav",
+    "offset": 83.73246199999991,
+    "duration": 0.160159
+  },
+  {
+    "name": "346.wav",
+    "offset": 83.8926209999999,
+    "duration": 0.2422
+  },
+  {
+    "name": "347.wav",
+    "offset": 84.1348209999999,
+    "duration": 0.312517
+  },
+  {
+    "name": "348.wav",
+    "offset": 84.4473379999999,
+    "duration": 0.28127
+  },
+  {
+    "name": "349.wav",
+    "offset": 84.72860799999991,
+    "duration": 0.199229
+  },
+  {
+    "name": "350.wav",
+    "offset": 84.92783699999991,
+    "duration": 0.25
+  },
+  {
+    "name": "351.wav",
+    "offset": 85.17783699999991,
+    "duration": 0.332041
+  },
+  {
+    "name": "352.wav",
+    "offset": 85.50987799999992,
+    "duration": 0.25
+  },
+  {
+    "name": "353.wav",
+    "offset": 85.75987799999992,
+    "duration": 0.218753
+  },
+  {
+    "name": "354.wav",
+    "offset": 85.97863099999992,
+    "duration": 0.230476
+  },
+  {
+    "name": "355.wav",
+    "offset": 86.20910699999992,
+    "duration": 0.218753
+  },
+  {
+    "name": "356.wav",
+    "offset": 86.42785999999992,
+    "duration": 0.332041
+  },
+  {
+    "name": "357.wav",
+    "offset": 86.75990099999993,
+    "duration": 0.320317
+  },
+  {
+    "name": "358.wav",
+    "offset": 87.08021799999993,
+    "duration": 0.328141
+  },
+  {
+    "name": "359.wav",
+    "offset": 87.40835899999993,
+    "duration": 0.320317
+  },
+  {
+    "name": "360.wav",
+    "offset": 87.72867599999994,
+    "duration": 0.28907
+  },
+  {
+    "name": "361.wav",
+    "offset": 88.01774599999993,
+    "duration": 0.375011
+  }
+]
